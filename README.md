@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋,I'm Gaurav Yadav</h1>
-<h3 align="center">A Coder And A AI engineer 🤖</h3>
+<h3 align="center">A Coder And An AI engineer 🤖</h3>
 
 
 <br>
